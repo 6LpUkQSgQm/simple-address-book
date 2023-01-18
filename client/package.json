@@ -39,7 +39,7 @@
     "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-replace": "^3.0.0",
     "@testing-library/jest-dom": "^5.16.1",
-    "@testing-library/svelte": "^3.0.3",
+    "@testing-library/svelte": "^3.2.2",
     "axios": "0.21.4",
     "dotenv": "^10.0.0",
     "node-sass": "^7.0.3",
